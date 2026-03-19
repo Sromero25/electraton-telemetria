@@ -57,3 +57,5 @@ Cambiar: http:// por https:// *Solo se agrega una s lo vuelve Security*
     Ctrl + o para guardar
     Enter
     Ctrl + x para salir
+Para descargar las librerias y que todos queden igual se usa este comando:
+pip install -r requirements.txt
