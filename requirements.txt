@@ -1,0 +1,11 @@
+Adafruit-Blinka==8.69.0
+adafruit-circuitpython-busdevice==5.2.15
+adafruit-circuitpython-mlx90614==1.2.23
+adafruit-circuitpython-requests==4.1.15
+adafruit-circuitpython-typing==1.12.3
+Adafruit-PlatformDetect==3.87.0
+Adafruit-PureIO==1.1.11
+
+smbus2
+gpiozero
+influxdb-client
