@@ -16,24 +16,15 @@ tests/      -> Pruebas
 docs/       -> Documentación técnica
 
 ## Instalación
+1. installar git
+    apt install git
 
-1. Clonar el repositorio
-git clone https://github.com/usuario/proyecto.git
-ejemplo: git clone https://github.com/Sromero25/electraton-telemetria
+2. Clonar el repositorio
+    git clone https://github.com/usuario/proyecto.git
+    ejemplo: git clone https://github.com/Sromero25/electraton-telemetria
 
-2. Crear entorno virtual
-python -m venv venv
-
-3. Activar entorno
-
-Linux / Mac:
-source venv/bin/activate
-
-Windows:
-venv\Scripts\activate
-
-4. Instalar dependencias
-pip install -r requirements.txt
+3. Instalar dependencias
+    pip install -r requirements.txt
 
 ## Objetivo de desarrollo
 El código se desarrolla en PC y posteriormente se despliega en Raspberry Pi para pruebas con hardware real.
